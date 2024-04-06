@@ -1,0 +1,36 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://eoc.atlascrisis.com/DEV/api.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, WebEOC_API"
+    ],
+    "references": [
+      "HealthChecks.System, {AspNetCore.HealthChecks.System, 7.0.0}",
+      "Microsoft.Extensions.Configuration.Abstractions, {Microsoft.Extensions.Configuration.Abstractions, 7.0.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 7.0.0}",
+      "Microsoft.Extensions.Diagnostics.HealthChecks, {Microsoft.Extensions.Diagnostics.HealthChecks, 7.0.9}",
+      "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions, {Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions, 7.0.9}",
+      "Microsoft.Extensions.FileProviders.Abstractions, {Microsoft.Extensions.FileProviders.Abstractions, 7.0.0}",
+      "Microsoft.Extensions.Hosting.Abstractions, {Microsoft.Extensions.Hosting.Abstractions, 7.0.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 7.0.1}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 7.0.1}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 7.0.0}",
+      "Microsoft.Win32.SystemEvents, {Microsoft.Win32.SystemEvents, 7.0.0}",
+      "System.CodeDom, {System.CodeDom, 7.0.0}",
+      "System.Diagnostics.EventLog, {System.Diagnostics.EventLog, 7.0.0}",
+      "System.Drawing.Common, {System.Drawing.Common, 7.0.0}",
+      "System.Management, {System.Management, 7.0.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 7.0.0}",
+      "System.ServiceProcess.ServiceController, {System.ServiceProcess.ServiceController, 7.0.1}",
+      "System.Windows.Extensions, {System.Windows.Extensions, 7.0.0}"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}

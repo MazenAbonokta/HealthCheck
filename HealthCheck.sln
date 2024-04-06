@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck", "HealthCheck\HealthCheck.csproj", "{816B1750-0F14-40B9-BFE4-7A47076D5939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlasHealthCheck", "AtlasHealthCheck\AtlasHealthCheck.csproj", "{0566DABE-9E08-4E12-953A-9C263FE292E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816B1750-0F14-40B9-BFE4-7A47076D5939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816B1750-0F14-40B9-BFE4-7A47076D5939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816B1750-0F14-40B9-BFE4-7A47076D5939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816B1750-0F14-40B9-BFE4-7A47076D5939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0566DABE-9E08-4E12-953A-9C263FE292E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0566DABE-9E08-4E12-953A-9C263FE292E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0566DABE-9E08-4E12-953A-9C263FE292E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0566DABE-9E08-4E12-953A-9C263FE292E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FD472E-A52C-4F51-A373-C0621DCC3FA8}
+	EndGlobalSection
+EndGlobal
